@@ -9,7 +9,8 @@
   - `HX711` โมดูลขยายสัญญาณ Load Cell (สำหรับวัดน้ำหนัก)
   - `RCWL-1655` เซนเซอร์วัดระยะทางด้วยเลเซอร์ (สำหรับวัดส่วนสูง)
 
----
+## Wiring Diagram
+![ESP32 BMI Wiring Diagram](images/wiring_diagram.png)
 
 ## 📚 Required Libraries
 โปรเจกต์นี้จำเป็นต้องติดตั้งไลบรารีดังต่อไปนี้ใน Arduino IDE ก่อนทำการคอมไพล์:
