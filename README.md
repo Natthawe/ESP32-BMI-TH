@@ -4,12 +4,12 @@
 
 ## 🛠️ Hardware Components
 - **Microcontroller:** ESP32
-- **Display:** หน้าจอ TFT LCD พร้อมระบบสัมผัส (ILI9341)
+- **Display:** หน้าจอ TFT LCD พร้อมระบบสัมผัส (ILI9488)
 - **Sensors:**
   - `HX711` โมดูลขยายสัญญาณ Load Cell (สำหรับวัดน้ำหนัก)
   - `RCWL-1655` เซนเซอร์วัดระยะทางด้วยเลเซอร์ (สำหรับวัดส่วนสูง)
 
-## Wiring Diagram
+## 🔌 Wiring Diagram
 ![ESP32 BMI Wiring Diagram](images/wiring_diagram.png)
 
 ## 📚 Required Libraries
