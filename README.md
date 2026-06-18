@@ -16,7 +16,7 @@
 
 1. **[HX711](https://github.com/RobTillaart/HX711)** โดย [Rob Tillaart] - (ใช้งานเวอร์ชัน 0.6.3)
    - *วิธีติดตั้ง:* ค้นหาใน Library Manager ว่า "HX711" หรือดาวน์โหลดจาก [GitHub](https://github.com/RobTillaart/HX711)
-2. **[TFT_eSPI]((https://github.com/Bodmer/TFT_eSPI))** โดย Bodmer - (ใช้งานเวอร์ชัน 2.5.43) 
+2. **[TFT_eSPI](https://github.com/Bodmer/TFT_eSPI)** โดย Bodmer - (ใช้งานเวอร์ชัน 2.5.43) 
    - *วิธีติดตั้ง:* ค้นหาใน Library Manager ว่า "TFT_eSPI" หรือดาวน์โหลดจาก
       [GitHub](https://github.com/Bodmer/TFT_eSPI)
 
